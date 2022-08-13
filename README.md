@@ -6,5 +6,5 @@
 <h2>Piramide</h2>
 <p>Para rodar, execute: java piramide.piramide [tamanho da piramide]</p>
 <p>Exemplo : <code>java piramide.piramide 7</code></p>
-<h2>Force</h2>
+<h2>Forca</h2>
 <p>Para rodar, execute: <code>java forca.forca</code></p>
